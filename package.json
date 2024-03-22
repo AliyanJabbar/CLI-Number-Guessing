@@ -1,6 +1,6 @@
 {
   "name": "@aliyan_jabbar/cli-number-guessing",
-  "version": "1.0.1",
+  "version": "2.0.1",
   "description": "This is cli based number guessing game",
   "main": "index.js",
   "type": "module",
