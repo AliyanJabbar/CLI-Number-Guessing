@@ -1,6 +1,5 @@
 #! /usr/bin/env node
 
-
 import inquirer from "inquirer";
 
 // 1) Computer will generarte a random number
