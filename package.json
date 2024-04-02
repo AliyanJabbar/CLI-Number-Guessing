@@ -1,9 +1,10 @@
 {
-  "name": "ali24685-cli-number-guessing-game",
-  "version": "2.2.2",
+  "name": "ali322-24685-cli-number-guessing-game",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
